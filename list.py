@@ -1,4 +1,5 @@
 #Filename: list.py
+#Function: Delete the duplicate value
 def deleteDuplicate(list):
     if len(list) == 0:
         return list
