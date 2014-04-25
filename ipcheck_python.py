@@ -2,7 +2,6 @@
 ip_time = {}
 dic_ip = {}
 dic_exception = {}
-list = []
 line_list = []
 logfile = file('D:\\winnie\\repositorywy\\log.txt','r')
 for log_line in logfile.readlines():
